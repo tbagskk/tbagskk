@@ -9,7 +9,7 @@
   <img height="300" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
 </div>
 
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tbagskk&show_icons=true&theme=nord"
     media="(prefers-color-scheme: dark)"
