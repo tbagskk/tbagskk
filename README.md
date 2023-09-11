@@ -7,19 +7,6 @@
 
 
 
-<div align="center">
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tbagskk&show_icons=true&theme=nord"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tbagskk&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbagskk&show_icons=true" />
-</picture>
-</div>
 
 
 
