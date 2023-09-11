@@ -5,9 +5,7 @@
 </picture>
 
 
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
-</div>
+
 
 <div align="center">
 <picture align="center">
@@ -21,4 +19,10 @@
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbagskk&show_icons=true" />
 </picture>
+</div>
+
+
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
 </div>
