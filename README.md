@@ -9,6 +9,7 @@
   <img height="300" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
 </div>
 
+<div align="center">
 <picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tbagskk&show_icons=true&theme=nord"
@@ -20,3 +21,4 @@
   />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tbagskk&show_icons=true" />
 </picture>
+</div>
