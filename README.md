@@ -4,7 +4,7 @@ Passionate about computer science and constantly hungry for challenges, I am a v
 
 🛠️ On the server side, I juggle with Node.js to develop robust and efficient applications. My approach goes beyond mere code: I strive to create captivating and intuitive user experiences.
 
-
+</br>
 
 
 <picture>
@@ -15,7 +15,7 @@ Passionate about computer science and constantly hungry for challenges, I am a v
 
 
 
-
+</br>
 
 
 
@@ -23,4 +23,4 @@ Passionate about computer science and constantly hungry for challenges, I am a v
   <img height="300" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
 </div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabin-cherquitte/)
+
