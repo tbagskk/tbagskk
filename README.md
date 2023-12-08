@@ -1,9 +1,5 @@
 # Front-End Developer
 
-Passionate about computer science and constantly hungry for challenges, I am a versatile web developer who is always exploring new horizons. My favorite playground? Front-end development, where the magic of user experience comes to life. My expertise particularly extends to React.js, HTML, and CSS, technologies with which I create intuitive and aesthetic user interfaces.
-
-🛠️ On the server side, I juggle with Node.js to develop robust and efficient applications. My approach goes beyond mere code: I strive to create captivating and intuitive user experiences.
-
 </br>
 
 
