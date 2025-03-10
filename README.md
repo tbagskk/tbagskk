@@ -12,9 +12,12 @@
   <img height="300" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
 </div>
 
-### Learn1000Words - Apprendre l'Anglais Simplement
+<h3 style="color:#4096FF; font-weight: bold; text-align: center;">Learn1000Words - L'Anglais avec Style</h3>
 
-Je travaille sur [Learn1000Words](https://www.learn1000words.com/), un outil pour maîtriser les 1000 mots anglais les plus utiles. Apprenez, traduisez, révisez et progressez !
+<p style="font-size: 1.1em; line-height: 1.4; color: #333;">
+Je travaille sur <a href="https://www.learn1000words.com/" style="color: #007BFF; text-decoration: none; font-weight: bold;">Learn1000Words</a>, un projet où l'apprentissage de l'anglais rencontre un design soigné.  Maîtrisez les 1000 mots essentiels avec une expérience utilisateur pensée pour le plaisir et l'efficacité.
+</p>
 
-➡️ [Découvrez Learn1000Words.com](https://www.learn1000words.com/)
-
+<p align="center">
+  <a href="https://www.learn1000words.com/" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Découvrez Learn1000Words.com</a>
+</p>
