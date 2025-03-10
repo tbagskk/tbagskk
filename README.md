@@ -20,6 +20,6 @@
 </div>
 
 
-<p> Currently working on <link>https://1000-words.vercel.app/ </link></p>
+<p> Currently working on <link>https://www.learn1000words.com/</link></p>
 
 
