@@ -12,12 +12,10 @@
   <img height="300" src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
 </div>
 
-<h3 style="color:#4096FF; font-weight: bold; text-align: center;">Learn1000Words - L'Anglais avec Style</h3>
+### Learn1000Words - Débloquer l'Anglais, une Brique à la Fois
 
-<p style="font-size: 1.1em; line-height: 1.4; color: #333;">
-Je travaille sur <a href="https://www.learn1000words.com/" style="color: #007BFF; text-decoration: none; font-weight: bold;">Learn1000Words</a>, un projet où l'apprentissage de l'anglais rencontre un design soigné.  Maîtrisez les 1000 mots essentiels avec une expérience utilisateur pensée pour le plaisir et l'efficacité.
-</p>
+J'ai toujours été fasciné par la construction. Les bâtiments, les langages... Tout commence avec des éléments de base, assemblés patiemment. Learn1000Words, c'est mon chantier linguistique : une méthode pour poser les 1000 briques essentielles de l'anglais.
 
-<p align="center">
-  <a href="https://www.learn1000words.com/" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Découvrez Learn1000Words.com</a>
-</p>
+Chaque mot est une brique. Apprenez-les, assemblez-les, et construisez votre propre communication.
+
+➡️ [Commencez votre construction.](https://www.learn1000words.com/)
